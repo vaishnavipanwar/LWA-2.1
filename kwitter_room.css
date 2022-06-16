@@ -1,0 +1,30 @@
+body
+{
+background-color: rgb(73, 236, 146);
+}
+
+#logout
+{
+	font-size: 20px;
+     float: right;
+}
+.name{
+  width:30%;
+     font-size: 30px;
+     }
+#logo{
+ height: 40px;
+ width: 40px;
+   }  
+#output{
+     text-align: center;
+     background-color:rgb(73, 236, 146) ;
+     font-size: medium;
+     border-width:4px;
+     border-style: double;
+     border-color: blueviolet;
+     font-family: 'Times New Roman';
+     padding: 50px;
+     border-radius: 20px;
+}    
+     
